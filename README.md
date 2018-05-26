@@ -47,5 +47,6 @@ Source _[Reddit](https://www.reddit.com/r/learnmachinelearning/comments/694aj0/e
 
 - Google Assistant App Design Tshirt (deadline 20 June) [help](https://medium.freecodecamp.org/how-to-build-apps-for-google-assistant-with-no-programming-experience-42a490d63822).
 - CodeShip Tshirt on 5 builds.
+[elaborated](https://github.com/swapagarwal/swag-for-dev)
 
 
