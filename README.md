@@ -5,7 +5,11 @@ Pin-up for useful things I find here and there.
 *Deep Learning For Coders—18 hours of lessons for free, course.fast.ai/
 
 Top 3 Deep Learning Courses
-
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+          
 Markup : *Creative Applications of Deep Learning with TensorFlow by Kadenze 
          *Neural Networks for Machine Learning by the University of Toronto (taught by Geoffrey Hinton) via Coursera
          *Deep Learning A-Z™: Hands-On Artificial Neural Networks by Kirill Eremenko, Hadelin de Ponteves, and the SuperDataScience Team via Udemy
